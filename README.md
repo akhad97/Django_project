@@ -1,2 +1,2 @@
-# Django_project
-Student_Management_System
+# django_project
+building Student_Management_System project in django
